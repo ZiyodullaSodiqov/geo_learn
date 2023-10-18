@@ -1,0 +1,89 @@
+*{
+    padding:0px;
+    margin:0px;
+    box-sizing:border-box;
+}
+body {
+    background-color: #e9f7f6 !important;
+}
+.site-hero_logo{
+    width:500px;
+    height:500px;
+    margin-top:80px;
+}
+.changeX1 {
+    width: 200px;
+    height: 60px;
+    color: #fff !important;
+    font-size: 18px !important;
+}
+.changeX3 {
+    border-radius: 12px;
+    height: 200px;
+    margin: 5px;
+    padding: 5px;
+    width: 23% !important;
+    box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.582); 
+    transition: 1s; 
+}
+.changeX3:hover{
+    box-shadow: none;
+    transition: 1s;
+}
+.changeX4{
+    margin-top: 1px !important;
+}
+.bgX1{
+    background-image:url('../images/ct1.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.bgX2{
+    background-image:url('../images/ct2.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.bgX3{
+    background-image:url('../images/ct4.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.bgX4{
+    background-image:url('../images/ct3.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.bgX5{
+    background-image:url('../images/ct5.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.bgX6{
+    background-image:url('../images/ct6.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.bgX7{
+    background-image:url('../images/ct7.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.bgX8{
+    background-image:url('../images/ct8.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.spnX1{
+    text-align: center;
+    font-size: 34px;
+    margin-top: 34px;
+    font-weight: 600;
+    color: #000;
+}
+.M_Xtext_h1{
+    text-align: center;
+}
+.M_xtext_p{
+    font-size: 18px;
+    line-height: 40px;
+}
